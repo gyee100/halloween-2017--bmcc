@@ -1,0 +1,11 @@
+body {
+   width: 768px;
+}
+
+h1, p {
+   width: auto;
+}
+
+h1 {
+   font-size: 1.83rem;
+}

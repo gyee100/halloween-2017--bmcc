@@ -1,0 +1,22 @@
+body {
+   margin: auto;
+   padding: 20px;
+   border: 1px solid black;;
+   width: 982px;
+}
+
+h1, p {
+   margin: auto;
+   padding: 0;
+   width: 960px;
+}
+
+h1 {
+   margin: 24px 0;
+   font-size: 2rem;
+   transition: 500ms;
+}
+
+p {
+   margin: 12px 0;
+}
